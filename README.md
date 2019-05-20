@@ -1,2 +1,2 @@
 # solc-bin
-solc-bin for usechain
+Current and historical (emscripten) binaries for Solidity of Usechain

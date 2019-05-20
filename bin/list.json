@@ -1,0 +1,18 @@
+{
+  "builds": [
+    {
+      "path": "soljson-v0.4.20+commit.58b6c547.js",
+      "version": "0.4.20",
+      "build": "commit.58b6c547",
+      "longVersion": "0.4.20+commit.58b6c547",
+      "keccak256": "0xfca211246959f769b420763b4df067f1f0e01276fe0d3b1a32aa2fef5de76b73",
+      "urls": [
+        "bzzr://97db0e2239778c05f71529312229d0f2705afda1162c2fa219d9566370be1555"
+      ]
+    }
+  ],
+  "releases": {
+    "0.4.20": "soljson-v0.4.20+commit.58b6c547.js"
+  },
+  "latestRelease": "0.4.20"
+}
